@@ -1,0 +1,18 @@
+a.enter{
+    color:#14e715;
+    text-align: center;
+    border: 3px solid black;
+    background-color: black;
+}
+h2{
+    color:#14e715;
+    text-align: center;
+    border: 3px solid black;
+    background-color: black;
+}
+input{
+    padding: 15px;
+    color: black;
+    background-color: #14e715;
+    font-size: large;
+}
